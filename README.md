@@ -61,3 +61,5 @@ Think about edge cases like trying to play when energy is 0.
 Submission format: clone/fork this repo
 
 Bonus points for creativity (custom actions, emojis, pet types, etc.)
+
+Happy Coding!
